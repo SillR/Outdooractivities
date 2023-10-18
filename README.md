@@ -1,5 +1,7 @@
-# Live links
-- Leaflet Map https://handsondataviz.github.io/leaflet-maps-with-google-sheets/
+# About
+
+## Live links
+- Leaflet Map https://sillr.github.io/Outdooractivities/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1Iv4_cxV2Qn2Wtz0HYmIj6CX1McVpSVQMa9uI65a4LP0/edit#gid=0
 
   
